@@ -1,4 +1,4 @@
-# explore-feature
+# Explore Feature
 
 1. **Recently Released:**
    - Display a list of the most recently released drops on the HearVerse music marketplace.
