@@ -1,4 +1,4 @@
-# Creator-Panel-Feature
+# Creator-Panel Feature
 
 Dashboard: The creator panel would have a dashboard that provides an overview of the creator's account activity, including earnings, sales, number of NFTs sold, and other relevant data.
 
