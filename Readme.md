@@ -13,13 +13,24 @@ Contributions are what make the open source community such an amazing place to l
 4.  Push to the Branch (git push origin feature/AmazingFeature)
 5.  Open a Pull Request
 
-# Features
+# Public Repositories
+
+- [nft-music-ui-website](https://github.com/armanriazi/nft-music-ui-website)
+- [nft-music-ui-marketplace](https://github.com/armanriazi/nft-music-ui-marketplace)
+  
+# Features 
+
+> Unsplit front/back, pls find your related feature, obviously
 
 - [NFT-Creation-Feature](https://github.com/armanriazi/nft-music-backlog-raw/blob/main/NFT-Creation-Feature.md)
 
 - [NFT-Creator-Panel-Feature](https://github.com/armanriazi/nft-music-backlog-raw/blob/main/NFT-Creator-Panel-Feature.md)
 
 - [NFT-Explore-Feature](https://github.com/armanriazi/nft-music-backlog-raw/blob/main/NFT-Explore-Feature.md)
+
+# Tasks
+
+- [Project tasks](https://github.com/armanriazi?tab=projects)
 
 # License
 Distributed under the MIT License. See LICENSE.txt for more information.
