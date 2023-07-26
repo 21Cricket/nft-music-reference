@@ -36,7 +36,7 @@ Once the NFT is minted, it will be available for sale on the 21Crickets music ma
 - Add team name, wallet, and royalty percentage
 - Choose between open or private reporting of royalties
 
-5.**Mint**
+5. **Mint**
 - Choose the blockchain network
 - Mint the NFT
 
