@@ -1,19 +1,19 @@
 # Explore Feature
 
 1. **Recently Released:**
-   - Display a list of the most recently released drops on the HearVerse music marketplace.
+   - Display a list of the most recently released drops on the 21Crickets music marketplace.
    - Allow users to sort by date or popularity.
    - Display key information for each drop, such as title, artist, genre, and price.
    - Provide a link to the drop page where users can learn more and make a purchase.
 
 2. **Upcoming:**
-   - Display a list of upcoming drops that have been announced by artists or labels on the HearVerse music marketplace.
+   - Display a list of upcoming drops that have been announced by artists or labels on the 21Crickets music marketplace.
    - Allow users to sort by date or popularity.
    - Display key information for each drop, such as title, artist, genre, and release date.
    - Provide a link to a preview page where users can listen to teasers and learn more about the drop before it is released.
 
 3. **Trending:**
-   - Display a list of the drops that are currently trending on the HearVerse music marketplace.
+   - Display a list of the drops that are currently trending on the 21Crickets music marketplace.
    - Allow users to sort by date or popularity.
    - Display key information for each drop, such as title, artist, genre, and number of views or purchases.
    - Provide a link to the drop page where users can learn more and make a purchase.
@@ -31,7 +31,7 @@
    - Provide a link to the drop page where users can learn more and make a purchase.
 
 6. **Featured:**
-   - Display a list of feautured drops  on HearVerse Mmusic marketplace.
+   - Display a list of feautured drops  on 21Crickets Mmusic marketplace.
    - Allow users to sort by date, popularity or price.
    - Display key information for each drop, such as title, price, artist, artist descryption, artist feature level,  genre, and number of views or purchases.
    - Allow users to scroll between different featured drops or categorize based on Genre.
