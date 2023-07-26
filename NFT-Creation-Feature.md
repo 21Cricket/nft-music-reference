@@ -1,6 +1,6 @@
 # NFT-Creation-Features
 
-Once the NFT is minted, it will be available for sale on the HearVerse music marketplace, and the creator will receive royalties for each sale.
+Once the NFT is minted, it will be available for sale on the 21Crickets music marketplace, and the creator will receive royalties for each sale.
 
 **NFT creation:**
 
