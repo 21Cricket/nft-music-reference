@@ -22,13 +22,13 @@ Contributions are what make the open source community such an amazing place to l
 
 > Unsplit front/back, pls find your related feature, obviously
 
-<!--
+
 - [NFT-Creation-Feature](https://github.com/armanriazi/nft-music-backlog-raw/blob/main/NFT-Creation-Feature.md)
 
 - [NFT-Creator-Panel-Feature](https://github.com/armanriazi/nft-music-backlog-raw/blob/main/NFT-Creator-Panel-Feature.md)
 
 - [NFT-Explore-Feature](https://github.com/armanriazi/nft-music-backlog-raw/blob/main/NFT-Explore-Feature.md)
--->
+
 
 # Tasks
 
