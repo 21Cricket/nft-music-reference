@@ -1,4 +1,4 @@
-# NFT Features
+# NFT Music Platform
 
 - [Website](https://21crickets.github.io)
   
