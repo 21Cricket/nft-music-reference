@@ -1,5 +1,7 @@
 # NFT Features
 
+- [Website](https://21crickets.github.io)
+  
 # Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -15,19 +17,19 @@ Contributions are what make the open source community such an amazing place to l
 
 # Public Repositories
 
-- [nft-music-ui-website](https://github.com/armanriazi/nft-music-ui-website)
-- [nft-music-ui-marketplace](https://github.com/armanriazi/nft-music-ui-marketplace)
+- [nft-music-ui-website](https://github.com/21Cricket/nft-music-ui-website)
+- [nft-music-ui-marketplace](https://github.com/21Cricket/nft-music-ui-marketplace)
   
 # Features 
 
 > Unsplit front/back, pls find your related feature, obviously
 
 
-- [NFT-Creation-Feature](https://github.com/armanriazi/nft-music-backlog-raw/blob/main/NFT-Creation-Feature.md)
+- [NFT-Creation-Feature](https://github.com/21Cricket/nft-music-backlog-raw/blob/main/NFT-Creation-Feature.md)
 
-- [NFT-Creator-Panel-Feature](https://github.com/armanriazi/nft-music-backlog-raw/blob/main/NFT-Creator-Panel-Feature.md)
+- [NFT-Creator-Panel-Feature](https://github.com/21Cricket/nft-music-backlog-raw/blob/main/NFT-Creator-Panel-Feature.md)
 
-- [NFT-Explore-Feature](https://github.com/armanriazi/nft-music-backlog-raw/blob/main/NFT-Explore-Feature.md)
+- [NFT-Explore-Feature](https://github.com/21Cricket/nft-music-backlog-raw/blob/main/NFT-Explore-Feature.md)
 
 
 # Tasks
